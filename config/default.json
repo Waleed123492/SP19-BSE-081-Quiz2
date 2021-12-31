@@ -1,0 +1,4 @@
+{
+  "db": "mongodb+srv://waleed:waleed123@products.a7dyk.mongodb.net/Products?retryWrites=true&w=majority",
+  "jwtPrivateKey": "SomePrivateKey"
+}
